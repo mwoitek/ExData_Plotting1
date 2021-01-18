@@ -50,8 +50,8 @@ Sys.setlocale("LC_TIME", "en_US.utf8")
 
 # Create the four plots
 
-# Make the background transparent, and define the layout
-par(bg = NA, mfrow = c(2, 2))
+# Define the layout
+par(mfrow = c(2, 2))
 
 # Top left
 with(

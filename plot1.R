@@ -33,9 +33,6 @@ dat <-
 
 # Plot the histogram
 
-# Make the background transparent
-par(bg = NA)
-
 hist(
   dat,
   col = "red",

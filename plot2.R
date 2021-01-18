@@ -41,9 +41,6 @@ Sys.setlocale("LC_TIME", "en_US.utf8")
 
 # Plot the time series
 
-# Make the background transparent
-par(bg = NA)
-
 with(
   dat,
   plot(
