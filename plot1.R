@@ -1,4 +1,5 @@
 # R code for creating the 1st figure
+# AUTHOR: MARCIO WOITEK
 
 # Import the necessary libraries
 library(dplyr)
